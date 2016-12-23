@@ -15,7 +15,7 @@
 - 仅使用`modal`而引入`bootstrap`，网站加载臃肿...不值
 - `github`查找开源`dialog`回话弹窗插件：插件过大、`api`文档复杂...
 - 这个时代，不会`bootstrap`的人真的很少
-- `bootstrap-modal.css`与`bootstrap-modal.js`未压缩：3kb + 7Kb = 10kb
+- `bootstrap-modal.css`与`bootstrap-modal.js`未压缩：`3kb + 7Kb = 10kb`
 
 ## `bootstrap-modal`提取于`bootstrap-2.3.0`
 
