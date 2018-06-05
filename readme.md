@@ -27,6 +27,6 @@
 
 ##### 源码
 
-> oschina ：<a href="https://git.oschina.net/ikaiguang/bootstrap-modal" title="bootstrap-modal" target="_blank">bootstrap-modal</a>
+> oschina ：<a href="https://gitee.com/ikaiguang/bootstrap-modal" title="bootstrap-modal" target="_blank">bootstrap-modal</a>
 
 > github ：<a href="https://github.com/ikaiguang/bootstrap-modal" title="bootstrap-modal" target="_blank">bootstrap-modal</a>
