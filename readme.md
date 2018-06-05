@@ -1,6 +1,6 @@
 # bootstrap-modal or jquery dialog 弹窗
 
-> author：`skinnyguang`
+> author：`ikaiguang`
 
 ## 演示地址
 
