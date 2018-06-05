@@ -4,7 +4,7 @@
 
 ## 演示地址
 
-> <a href="http://demo.phpcollege.org/bootstrap-modal/index.html" title="bootstrap-modal" target="_blank">bootstrap-modal</a>
+> <a href="#" title="bootstrap-modal" target="_blank">bootstrap-modal</a>
 
 ## 关于 ：`bootstrap-modal`
 
@@ -27,6 +27,6 @@
 
 ##### 源码
 
-> oschina ：<a href="https://git.oschina.net/skinnyguang/bootstrap-modal" title="bootstrap-modal" target="_blank">bootstrap-modal</a>
+> oschina ：<a href="https://git.oschina.net/ikaiguang/bootstrap-modal" title="bootstrap-modal" target="_blank">bootstrap-modal</a>
 
-> github ：<a href="https://github.com/skinnyguang/bootstrap-modal" title="bootstrap-modal" target="_blank">bootstrap-modal</a>
+> github ：<a href="https://github.com/ikaiguang/bootstrap-modal" title="bootstrap-modal" target="_blank">bootstrap-modal</a>
